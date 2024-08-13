@@ -1,1 +1,3 @@
-
+name: serviceone-docker 
+address: fzd-docker
+servicetwourl: https://apigateway:443/apiB/WeatherForecast
